@@ -1,9 +1,6 @@
 #说明
 参照 http://blog.csdn.net/developer_jiangqq/article/details/50599951
 
-#遗留问题
-结合Navigator实现页面导航
-
 #截图
 ![图1](./screencasts/toolbar-1.png)
 
